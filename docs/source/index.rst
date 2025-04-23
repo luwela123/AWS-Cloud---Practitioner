@@ -1,4 +1,4 @@
-Student-Generated Documentation for AWS Cloud Quest: Cloud Practitioner!
+ Student-Generated Documentation for AWS Cloud Quest: Cloud Practitioner!
 ===================================
 
 Authors: Darnel Dave Chicano, Luwela P. Espinosa, Kimberly M. Eldo, Mayvill Joy Pampanga
